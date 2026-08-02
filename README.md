@@ -10,7 +10,7 @@ Building autonomous AI systems that ship — not demos.
 
 <br/>
 
-<a href="#]https://www.fiverr.com/sameersamsoon12">
+<a href="https://www.fiverr.com/sameersamsoon12">
   <img src="https://img.shields.io/badge/Fiverr-10B981?style=for-the-badge&logoColor=white&labelColor=0D1117" />
 </a>
 <a href="#">
