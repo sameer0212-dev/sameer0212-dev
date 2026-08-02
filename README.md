@@ -76,39 +76,37 @@ Building autonomous AI systems that ship — not demos.
 
 ## Tech Stack
 
-<div align="center">
+<table>
+<tr>
+<td width="50%" valign="top">
 
 **Languages**
 <br/>
 <img src="https://skillicons.dev/icons?i=python,js,ts,cpp&theme=dark" />
 
-<br/><br/>
-
-**Frontend**
-<br/>
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite&theme=dark" />
-
-<br/><br/>
-
 **Backend & Automation**
 <br/>
 <img src="https://skillicons.dev/icons?i=fastapi,nodejs,n8n&theme=dark" />
-
-<br/><br/>
-
-**AI / Data**
-<br/>
-<img src="https://skillicons.dev/icons?i=py,supabase,postgres&theme=dark" />
-<br/>
-<sub>OpenAI · OpenRouter · RAG Pipelines · Vector Databases</sub>
-
-<br/><br/>
 
 **Infrastructure**
 <br/>
 <img src="https://skillicons.dev/icons?i=docker,vercel,railway,git,github&theme=dark" />
 
-</div>
+</td>
+<td width="50%" valign="top">
+
+**Frontend**
+<br/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite&theme=dark" />
+
+**AI / Data**
+<br/>
+<img src="https://skillicons.dev/icons?i=py,supabase,postgres&theme=dark" />
+<sub>OpenAI · OpenRouter · RAG Pipelines · Vector Databases</sub>
+
+</td>
+</tr>
+</table>
 
 <br/>
 
@@ -136,7 +134,7 @@ AI Chat &nbsp;•&nbsp; Email Read/Send &nbsp;•&nbsp; Calendar Management &nbs
 <br/>
 
 <a href="#"><img src="https://img.shields.io/badge/Repository-161B22?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="#"><img src="https://img.shields.io/badge/Live_Demo-161B22?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="https://sameer-ai-assistant.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-161B22?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 <a href="#"><img src="https://img.shields.io/badge/Documentation-161B22?style=for-the-badge&logo=readthedocs&logoColor=white" /></a>
 <a href="#"><img src="https://img.shields.io/badge/Video_Demo-161B22?style=for-the-badge&logo=youtube&logoColor=white" /></a>
 
@@ -180,16 +178,16 @@ RAG Knowledge Base &nbsp;•&nbsp; Supabase Vector Search &nbsp;•&nbsp; Conver
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=E5E7EB&text_color=8B949E&icon_color=6E7681" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=E5E7EB&text_color=8B949E" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api?username=sameer0212-dev&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=E5E7EB&text_color=8B949E&icon_color=6E7681" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sameer0212-dev&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=E5E7EB&text_color=8B949E" width="49%" />
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=161B22&ring=6E7681&fire=E5E7EB&currStreakLabel=E5E7EB" width="100%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sameer0212-dev&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=161B22&ring=6E7681&fire=E5E7EB&currStreakLabel=E5E7EB" width="100%" />
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-compact&hide_border=true&bg_color=0D1117&color=8B949E&line=6E7681&point=E5E7EB" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sameer0212-dev&theme=github-compact&hide_border=true&bg_color=0D1117&color=8B949E&line=6E7681&point=E5E7EB" width="100%" />
 
 </div>
 
