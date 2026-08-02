@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=38&duration=3000&pause=1200&color=E5E7EB&center=true&vCenter=true&width=600&lines=Sameer;AI+Automation+Engineer;Agentic+AI+%2F+RAG+%2F+LLM+Systems" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=34&duration=3000&pause=1200&color=E5E7EB&center=true&vCenter=true&width=680&height=60&lines=Sameer+Samsoon;AI+Automation+Engineer;Agentic+AI+%2F+RAG+%2F+LLM+Systems" alt="Typing SVG" />
 
 <p align="sans-serif" style="font-size:16px; color:#8B949E;">
 Building autonomous AI systems that ship — not demos.
@@ -16,7 +16,7 @@ Building autonomous AI systems that ship — not demos.
   <img src="https://img.shields.io/badge/Available_for_work-10B981?style=for-the-badge&logoColor=white&labelColor=0D1117" />
 </a>
 <a href="#">
-  <img src="https://img.shields.io/badge/Pakistan-0D1117?style=for-the-badge&logoColor=white&labelColor=0D1117&color=161B22" />
+  <img src="https://img.shields.io/badge/Based_in_Pakistan-0D1117?style=for-the-badge&logoColor=white&labelColor=0D1117&color=161B22" />
 </a>
 
 </div>
@@ -135,7 +135,7 @@ AI Chat &nbsp;•&nbsp; Email Read/Send &nbsp;•&nbsp; Calendar Management &nbs
 
 <a href="#"><img src="https://img.shields.io/badge/Repository-161B22?style=for-the-badge&logo=github&logoColor=white" /></a>
 <a href="https://sameer-ai-assistant.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-161B22?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-<a href="https://www.linkedin.com/feed/update/urn:li:activity:7489731768267472896/"><img src="https://img.shields.io/badge/Documentation-161B22?style=for-the-badge&logo=readthedocs&logoColor=white" /></a>
+<a href="#"><img src="https://img.shields.io/badge/Documentation-161B22?style=for-the-badge&logo=readthedocs&logoColor=white" /></a>
 <a href="#"><img src="https://img.shields.io/badge/Video_Demo-161B22?style=for-the-badge&logo=youtube&logoColor=white" /></a>
 
 </td>
