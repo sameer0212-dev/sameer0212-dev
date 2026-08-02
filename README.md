@@ -11,7 +11,7 @@ Building autonomous AI systems that ship — not demos.
 <br/>
 
 <a href="#">
-  <img src="https://img.shields.io/badge/Available_for_work-10B981?style=for-the-badge&logoColor=white&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/Fiverr-10B981?style=for-the-badge&logoColor=white&labelColor=0D1117" />
 </a>
 <a href="#">
   <img src="https://img.shields.io/badge/Based_in_Pakistan-0D1117?style=for-the-badge&logoColor=white&labelColor=0D1117&color=161B22" />
