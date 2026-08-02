@@ -1,8 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:0D1117&height=180&section=header&text=&fontSize=0" width="100%"/>
-
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,50:8B5CF6,100:10B981&height=140&section=header&text=&fontSize=0" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=34&duration=3000&pause=1200&color=E5E7EB&center=true&vCenter=true&width=680&height=60&lines=Sameer+Samsoon;AI+Automation+Engineer;Agentic+AI+%2F+RAG+%2F+LLM+Systems" alt="Typing SVG" />
 
@@ -133,10 +131,10 @@ AI Chat &nbsp;•&nbsp; Email Read/Send &nbsp;•&nbsp; Calendar Management &nbs
 
 <br/>
 
-<a href="#"><img src="https://img.shields.io/badge/Repository-161B22?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="https://sameer-ai-assistant.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-161B22?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-<a href="#"><img src="https://img.shields.io/badge/Documentation-161B22?style=for-the-badge&logo=readthedocs&logoColor=white" /></a>
-<a href="#"><img src="https://img.shields.io/badge/Video_Demo-161B22?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+<a href="#"><img src="https://img.shields.io/badge/Repository-24292F?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://sameer-ai-assistant.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-10B981?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="#"><img src="https://img.shields.io/badge/Documentation-6366F1?style=for-the-badge&logo=readthedocs&logoColor=white" /></a>
+<a href="#"><img src="https://img.shields.io/badge/Video_Demo-F43F5E?style=for-the-badge&logo=youtube&logoColor=white" /></a>
 
 </td>
 </tr>
@@ -159,10 +157,10 @@ RAG Knowledge Base &nbsp;•&nbsp; Supabase Vector Search &nbsp;•&nbsp; Conver
 
 <br/>
 
-<a href="#"><img src="https://img.shields.io/badge/Repository-161B22?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="#"><img src="https://img.shields.io/badge/Live_Demo-161B22?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-<a href="#"><img src="https://img.shields.io/badge/Documentation-161B22?style=for-the-badge&logo=readthedocs&logoColor=white" /></a>
-<a href="#"><img src="https://img.shields.io/badge/Video_Demo-161B22?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+<a href="#"><img src="https://img.shields.io/badge/Repository-24292F?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="#"><img src="https://img.shields.io/badge/Live_Demo-10B981?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="#"><img src="https://img.shields.io/badge/Documentation-6366F1?style=for-the-badge&logo=readthedocs&logoColor=white" /></a>
+<a href="#"><img src="https://img.shields.io/badge/Video_Demo-F43F5E?style=for-the-badge&logo=youtube&logoColor=white" /></a>
 
 </td>
 </tr>
@@ -201,10 +199,10 @@ RAG Knowledge Base &nbsp;•&nbsp; Supabase Vector Search &nbsp;•&nbsp; Conver
 
 <div align="center">
 
-<a href="#"><img src="https://img.shields.io/badge/LinkedIn-161B22?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="#"><img src="https://img.shields.io/badge/Email-161B22?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="#"><img src="https://img.shields.io/badge/Portfolio-161B22?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-<a href="#"><img src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="#"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="#"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="#"><img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="#"><img src="https://img.shields.io/badge/GitHub-24292F?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 </div>
 
@@ -216,4 +214,4 @@ RAG Knowledge Base &nbsp;•&nbsp; Supabase Vector Search &nbsp;•&nbsp; Conver
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:0D1117&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:10B981,50:8B5CF6,100:6366F1&height=100&section=footer" width="100%"/>
