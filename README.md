@@ -135,7 +135,7 @@ AI Chat &nbsp;•&nbsp; Email Read/Send &nbsp;•&nbsp; Calendar Management &nbs
 
 <a href="#"><img src="https://img.shields.io/badge/Repository-161B22?style=for-the-badge&logo=github&logoColor=white" /></a>
 <a href="https://sameer-ai-assistant.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-161B22?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-<a href="#"><img src="https://img.shields.io/badge/Documentation-161B22?style=for-the-badge&logo=readthedocs&logoColor=white" /></a>
+<a href="https://www.linkedin.com/feed/update/urn:li:activity:7489731768267472896/"><img src="https://img.shields.io/badge/Documentation-161B22?style=for-the-badge&logo=readthedocs&logoColor=white" /></a>
 <a href="#"><img src="https://img.shields.io/badge/Video_Demo-161B22?style=for-the-badge&logo=youtube&logoColor=white" /></a>
 
 </td>
